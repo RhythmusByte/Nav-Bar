@@ -117,11 +117,11 @@ header {
 }
 
 .dropdown-menu.open {
-    height: 300px;
-    width: 100%; /* Update this line */
-    max-width: 100%; /* Add this line */
-    left: 0; /* Add this line */
-    right: 0; /* Add this line */
+    height: 350px;
+    width: 100%;
+    max-width: 100%;
+    left: 0; 
+    right: 0; 
 }
 
 .container {
