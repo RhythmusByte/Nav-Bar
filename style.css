@@ -117,7 +117,7 @@ header {
 }
 
 .dropdown-menu.open {
-    height: 350px;
+    height: 100%;
     width: 100%;
     max-width: 100%;
     left: 0; 
